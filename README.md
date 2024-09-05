@@ -1,2 +1,3 @@
-hello people we are a slap royale team with 12 people
-https://discord.gg/SqBmYAxTsY
+theme: jekyll-theme-minimal
+title: Octocat's homepage
+description: Bookmark this to keep an eye on my project updates!
