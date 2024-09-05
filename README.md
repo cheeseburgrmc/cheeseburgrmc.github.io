@@ -1,1 +1,2 @@
-game.Players.LocalPlayer:kick("You have been banned!")
+hello people we are a slap royale team with 12 people
+https://discord.gg/SqBmYAxTsY
